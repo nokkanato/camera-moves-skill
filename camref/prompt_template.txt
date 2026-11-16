@@ -1,0 +1,30 @@
+Generate single shot. Use Video 1 only as a camera-movement reference.
+
+The character, costume, scene and lighting follow Image 1: <describe the character, what they wear, where they are, the light>.
+
+Video 1 shows a grey placeholder figure made of a box and a ball. Do not inherit the grey figure, the grey pillars, the beams or the grey background of Video 1. Replace the figure with <the character> from Image 1, <pose: e.g. standing still and facing the camera>, and replace the surroundings with <the scene> of Image 1.
+
+From Video 1 take only the camera path, speed and timing:
+[0-2s] <where the camera is, how close, what it is aimed at, what is out of frame>
+[2-4s] <how the camera moves, and what comes into frame as it does>
+[4-6s] <the final framing and how the move ends; what the character does and their expression>
+
+<What the character does during the shot, e.g. stands still, only hair and clothes move in the wind.> One continuous camera move, no cuts. <Sound: dialogue or none, music or none, ambient sound.>
+Negative: no shot cuts, no grey mannequin, no pillars, no beams, no subtitles, no watermark, <anything else to keep out>.
+
+
+--- Filled example (low_angle_rise preset) ---
+
+Generate single shot. Use Video 1 only as a camera-movement reference.
+
+The character, costume, scene and lighting follow Image 1: a fluffy orange cat standing upright like a person, wearing a black tunic and small round dark sunglasses, standing above a sea of clouds at sunrise with a pink and orange sky and mountain peaks far behind him.
+
+Video 1 shows a grey placeholder figure made of a box and a ball. Do not inherit the grey figure, the grey pillars, the beams or the grey background of Video 1. Replace the figure with the cat from Image 1, standing still and facing the camera, and replace the surroundings with the sky, clouds and mountains of Image 1.
+
+From Video 1 take only the camera path, speed and timing:
+[0-2s] The camera is low, at the cat's waist height and close to him, aimed at his black tunic. His face is above the top of the frame.
+[2-4.5s] The camera rises smoothly and tilts upward along his chest until his face comes into frame, seen from below.
+[4.5-6s] The camera holds a low-angle close-up looking up at his face and creeps slowly closer. The cat looks down at the lens through his sunglasses, chin slightly lifted, calm, cold and intimidating. The pink sky and clouds are behind his head.
+
+The cat barely moves: he stands tall and still, only his fur and the hem of the tunic move a little in the wind. One continuous camera move, no cuts. No dialogue. No BGM, generate only ambient wind sounds.
+Negative: no shot cuts, no grey mannequin, no pillars, no beams, no subtitles, no watermark, no extra cats, no people, no smiling, no removing the sunglasses.

@@ -1,0 +1,15 @@
+{
+  "name": "camref",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render camera-move reference clips (grey block figure) from a three.js scene",
+  "type": "module",
+  "scripts": {
+    "list": "node render.mjs --list",
+    "all": "node render.mjs --all"
+  },
+  "dependencies": {
+    "playwright": "^1.64.1",
+    "three": "^0.187.0"
+  }
+}
